@@ -99,23 +99,23 @@ content:
         description: | # this will include new lines to allow paragraphs
           Developing an algorithm to predict equipment remaining useful life using tool wear data, Research Assistant @ Korea University
   
-  - title: Research Experience
-    layout: list
-    content:
-      - layout: top
-        title: Bigdata Analytics & Engineering Lab
-        # sub_title: Research Intern
-        caption: 2022 - 2023
-        # link: Link to company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Research Intern at Bigdata Analytics & Engineering Lab, Pusan National University
-      - layout: top
-        title: Regional Development & Planning Lab
-        # sub_title: Research Intern
-        caption: 2021 - 2022
-        # link: Link to company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Research Intern at Regional Development & Planning Lab, Pusan National University
+  # - title: Research Experience
+  #   layout: list
+  #   content:
+  #     - layout: top
+  #       title: Bigdata Analytics & Engineering Lab
+  #       # sub_title: Research Intern
+  #       caption: 2022 - 2023
+  #       # link: Link to company (optional)
+  #       description: | # this will include new lines to allow paragraphs
+  #         Research Intern at Bigdata Analytics & Engineering Lab, Pusan National University
+  #     - layout: top
+  #       title: Regional Development & Planning Lab
+  #       # sub_title: Research Intern
+  #       caption: 2021 - 2022
+  #       # link: Link to company (optional)
+  #       description: | # this will include new lines to allow paragraphs
+  #         Research Intern at Regional Development & Planning Lab, Pusan National University
 
   - title: Awards & Honors
     layout: list
@@ -141,7 +141,6 @@ content:
       - layout: top
         title: Optimization Software
         description: | # this will include new lines to allow paragraphs
-          - CPLEX
           - Gurobi
 
 
