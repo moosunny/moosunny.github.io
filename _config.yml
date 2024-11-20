@@ -32,7 +32,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/최무선 (2).jpg
+about_profile_image: images/최무선 (2).jpg.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is MuSun Choi. I am an M.S. student in Industrial & Management Engineering at Korea University.   
   My research interest is in Time-Series Analysis, Machine Learning, Graph-Neural Networks, and Semi-Supervised Learning. 
