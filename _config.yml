@@ -32,7 +32,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/최무선 (2).jpg.png
+about_profile_image: images/MS_image.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is MuSun Choi. I am an M.S. student in Industrial & Management Engineering at Korea University.   
   My research interest is in Time-Series Analysis, Machine Learning, Graph-Neural Networks, and Semi-Supervised Learning. 
@@ -72,7 +72,7 @@ content:
     layout: list
     content:
       - layout: top
-        title: International Conferences
+        title: Domestic Conferences
         # sub_title: Job title
         # caption: Date Range (eg. November 2016 - present)
         # link: Link to company (optional)
@@ -84,20 +84,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: AI 기반 HVAC 시스템 제어를 통한 넷제로 건물 에너지 효율화 시스템 개발
+        title: AI 기반 HVAC 시스템 제어를 통한 넷제로 건물 에너지 효율화 시스템 개발, IITP
         caption: Jul. 2023 - Present
         description: | # this will include new lines to allow paragraphs
           Development of NetZero Building Energy Efficient System through AI-based HVAC system control, Information and Communication Planning and Evaluation Institute, Research Assistant @ Korea University 
       - layout: top
-        title: Samsung Display
-        caption: Mar. 2024 - Present
-        description: | # this will include new lines to allow paragraphs
-          Optimize facility planning by using optimization, Research Assistant @ Korea University
-      - layout: top
-        title: Samsung Electronics
+        title: 배터리 교환형 모빌리티 대상 지능형 전력 수요 공급망 관리 기술 개발, 한국에너지기술평가원
         caption: Mar. 2023 - Dec. 2023
         description: | # this will include new lines to allow paragraphs
-          Maximize productivity by changing facility and logistics layouts Model development, Research Assistant @ Korea University
+          Developed a genetic algorithm based on a data-driven neural cost predictor for the implementation of a new battery exchange in Seoul, Korea. @ Korea University
+      - layout: top
+        title: 정밀가공 제조데이터를 활용한 불량 사전예측 AI 시스템 개발, 한국산업기술진흥원
+        caption: Mar. 2023 - Dec. 2023
+        description: | # this will include new lines to allow paragraphs
+          Developing an algorithm to predict equipment remaining useful life using tool wear data, Research Assistant @ Korea University
   
   - title: Research Experience
     layout: list
