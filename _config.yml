@@ -38,7 +38,7 @@ about_content: | # this will include new lines to allow paragraphs
   My research interest is in Time-Series Analysis, Machine Learning, Graph-Neural Networks, and Semi-Supervised Learning. 
   
   - Methodologies: Machine Learning, Deep Learning, GNN
-  - Applications: Battery Swapping Station based two-wheeled vehicles, Allocation Battery Swapping Stataion
+  - Applications: Battery Swapping Station based two-wheeled vehicles, Allocation Battery Swapping Station
 
 content:
   - title: Education
@@ -92,7 +92,7 @@ content:
         title: 배터리 교환형 모빌리티 대상 지능형 전력 수요 공급망 관리 기술 개발, 한국에너지기술평가원
         caption: Mar. 2023 - Dec. 2023
         description: | # this will include new lines to allow paragraphs
-          Developed a genetic algorithm based on a data-driven neural cost predictor for the implementation of a new battery exchange in Seoul, Korea. @ Korea University
+          Developed a genetic algorithm based on a data-driven neural cost predictor to implement a new battery exchange in Seoul, Korea. @ Korea University
       - layout: top
         title: 정밀가공 제조데이터를 활용한 불량 사전예측 AI 시스템 개발, 한국산업기술진흥원
         caption: Mar. 2023 - Dec. 2023
@@ -121,13 +121,13 @@ content:
     layout: list
     content:
       - layout: top
-        title: Korea University
+        title: 2024 KoMaP AI 경진대회
         description: | # this will include new lines to allow paragraphs
-          Graduate School Mentor-Mentee Program, 2024
+          한국전자정보통신연구원장상, 2024년 07월
       - layout: top
-        title: Korea University
+        title: 2023 K-인공지능 제조데이터 분석 경진대회
         description: | # this will include new lines to allow paragraphs
-          Future Talent Scholarship Student, 2023
+          한국과학기술원 총장상, 2023년 11월
 
   - title: Additional Information
     layout: list
