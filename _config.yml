@@ -55,7 +55,7 @@ content:
         # sub_title: 2017 - 2023
         caption: 2016 - 2022
         description: | # this will include new lines to allow paragraphs
-          B.S. in Industrial Management and Administration
+          B.S. in Industrial administration and management 
 
   - title: Publications
     layout: list
@@ -66,11 +66,8 @@ content:
         # caption: Date Range (eg. November 2016 - present)
         # link: Link to company (optional)
         description: | # this will include new lines to allow paragraphs
-          - (Works in Progress) Hyungjoo Cha, Joonghoo Park, Chungmok Lee* and Taesu Cheong*, "An Exact algorithm for Vehicle Routing Problem with Availability Profiles"
-          - (Works in Progress) Joonghoo Park, Gwangjong Ko, Hyungjoo Cha and Taesu Cheong*, “Vehicle routing problem with metro based backhauls and MFCs”
-          - (Works in Progress) Joonghoo Park, Hyungjoo Cha, San Kwon and Taesu Cheong*, “Temporary medical shelter location-routing problem with manpower allocation in a disaster situation”
-          - Seongjin Lee, Joonghoo Park, Seungmin Cha and Donghyun Kim* (2022), “A Regional Economy’s Resistance to the COVID-19 Shock: Sales Revenues of Micro-, Small-, and Medium-Sized Enterprises in South Korea”, International Journal of Disaster Risk Science
-
+          - (Under Review, Big Data Research) Musun Choi, Kwang-Jong Ko, Teasu Cheong*, "Driving-pattern-based SoC prediction for electric two-wheeled vehicles with battery swapping systems."
+          
   - title: Conferences
     layout: list
     content:
@@ -80,25 +77,25 @@ content:
         # caption: Date Range (eg. November 2016 - present)
         # link: Link to company (optional)
         description: | # this will include new lines to allow paragraphs
-          - Joonghoo Park, Hyungjoo Cha, San Kwon and Taesu Cheong*, “Temporary medical shelter location-routing problem with manpower allocation in a disaster situation”, 2024 INFORMS Annual Meeting, Nov 2024.
-          - Joonghoo Park, Gwangjong Ko and Taesu Cheong*, “Micro-fulfillment center location routing problem with underground logistics system”, 2024 International Conference of Asian Shipping and Logistics, Jun 2024.  
+          - 최무선, 고광종, 김태영, 유선호, 주승돈, 정태수* (2024) “지속가능한 도심 배달 서비스를 위한 전기 이륜차 배터리 교환소 위치 선정 연구”, 2024 한국SCM학회 추계학술대회, 서울, 대한민국, Nov, 8.
+          - 최무선, 고광종, 정태수* (2023) “전기 이륜차 주행패턴 기반의 실시간 SoC 소모량 예측 연구”, 2023 대한산업공학회 추계학술대회, 2023, Nov. 2-3.  
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top
+        title: AI 기반 HVAC 시스템 제어를 통한 넷제로 건물 에너지 효율화 시스템 개발
+        caption: Jul. 2023 - Present
+        description: | # this will include new lines to allow paragraphs
+          Development of NetZero Building Energy Efficient System through AI-based HVAC system control, Information and Communication Planning and Evaluation Institute, Research Assistant @ Korea University 
       - layout: top
         title: Samsung Display
         caption: Mar. 2024 - Present
         description: | # this will include new lines to allow paragraphs
           Optimize facility planning by using optimization, Research Assistant @ Korea University
       - layout: top
-        title: IITP
-        caption: Feb. 2024 - Present
-        description: | # this will include new lines to allow paragraphs
-          Development of NetZero Building Energy Efficient System through AI-based HVAC system control, Information and Communication Planning and Evaluation Institute, Research Assistant @ Korea University 
-      - layout: top
         title: Samsung Electronics
-        caption: Nov. 2023 - Feb. 2024
+        caption: Mar. 2023 - Dec. 2023
         description: | # this will include new lines to allow paragraphs
           Maximize productivity by changing facility and logistics layouts Model development, Research Assistant @ Korea University
   
