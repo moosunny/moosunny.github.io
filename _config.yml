@@ -143,11 +143,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - CPLEX
           - Gurobi
-      - layout: top
-        title: Military Service
-        caption: Apr. 2017 - Jan. 2019
-        description: | # this will include new lines to allow paragraphs
-          Republic of Korea Air Force
+
 
 # Footer
 footer_show_references: true
