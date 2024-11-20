@@ -139,8 +139,8 @@ content:
         title: Programming Languages
         description: | # this will include new lines to allow paragraphs
           - Python
-          - C++
-          - Julia
+          - JAVA
+          - SQL
       - layout: top
         title: Optimization Software
         description: | # this will include new lines to allow paragraphs
@@ -148,7 +148,7 @@ content:
           - Gurobi
       - layout: top
         title: Military Service
-        caption: Jan. 2019 - Nov. 2020
+        caption: Apr. 2017 - Jan. 2019
         description: | # this will include new lines to allow paragraphs
           Republic of Korea Air Force
 
